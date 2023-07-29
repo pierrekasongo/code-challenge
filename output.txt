@@ -1,0 +1,57 @@
+COMPONENTS WITHOUT LEAD
+-----------------------
+Name:  Backend Project:  SP Assignee Type:  PROJECT_DEFAULT
+Name:  Synchronization Project:  SP Assignee Type:  PROJECT_DEFAULT
+Name:  Templates Project:  SP Assignee Type:  PROJECT_DEFAULT
+ISSUES FOR SAMPLE PROJECT
+--------------------------
+Creator:  Automation for Jira Summary:   Global templates context - ON for all project and issue types by default Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   If checklist is visible to JSM customers, show info icon in toolbar Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Sync the status of new issue created from a checklist item with that item's status Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Templates do not load under Project Pages Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Locked global items - make "optional" and "rename" options/actions available Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Create CFJS-to-IC funtionalities comparison table in user documentation Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Apply template according to label added to the issue Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Edit template UI improvements Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Fix @atlaskit/layer deprecation Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Disable self-mentioning notifications Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Improve Global Template delete confirmation dialog Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Remove the flash of "no templates found" on the templates list in project page Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Add support for renaming statuses to Templates with non-default statuses Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Don't show empty global template on issue page Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Data residency support (a switch to store EU data within EU) Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Overview of templates with mentions results in broken UI Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Warning when deleting items from global templates Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:   Lock global templates for resolved issues Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Add a tool tip to items that show when the item was checked/unchecked and by whom. Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  I want to export checklist history (auditing/reporting purposes) Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Converting item to issue should link both issues Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Add Typescript to Issue Checklist Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Project pages improvements (missing project ID + redundant call for JSD properties in non-JSD project) Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Templates filtering Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Picker improvements for date and emoji Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Link in separator text showing with a line in the foreground Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Show global templates in the issue panel Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Import data from Checklist for Jira Server Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Assigned items page should display uncompleted items only by default Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Apply server side permissions check (token) to every applicable checklist endpoint Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Loading template with just a header should open the checklist (set proper issue entity property used in condition) Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Each button-icon should have a label Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Admin page for global templates Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Add example templates for new plugin installations Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Dropdown should work with screen readers (have focus set properly when expanded?) Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Make async / await work for frontend and, by extension, for tests Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  (Mobile) performance Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Include template's name when default template is applied Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Add "Clear history" button to the checklist history view Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Do not show empty checklist in Service Desk customer view (if there are no items defined) Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Support multiple checklists in custom fields Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Support description in templates Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Clone checklist when issue is cloned (even with custom fields integration disabled) Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Onboarding in Checklist panel (end-users) Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Display checklist to Service Desk customers Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Allow to edit templates in the editor Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Show text progress through entity property to read-only custom field Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Showing checklist by default for all new issues Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Copy YAML Project:  Sample Project Progress:  0 Votes:  0
+Creator:  Automation for Jira Summary:  Link to permissions documentation in Manage Template dialog Project:  Sample Project Progress:  0 Votes:  0
